@@ -1,7 +1,6 @@
-
 # hashley
 
-**Hashley** provides an atomic function for the most common file hash pattern (sha256).
+**Hashley** provides a minimal function for most common file checksum pattern.
 
 ## Details
 
