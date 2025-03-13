@@ -1,10 +1,11 @@
+
 # hashley
 
-**Hashley** provides an atomic function for the most common file hash pattern.
+**Hashley** provides an atomic function for the most common file hash pattern (sha256).
 
 ## Details
 
-- Uses sha256 by default.
+- Uses `sha256` by default.
 - No dependencies beyond the node.js default crypto.
 
 ## Install
@@ -23,8 +24,10 @@ console.log(shasum);
 
 ## Links
 
-**Development Homepage**:
+### Development Homepage
+
 [https://github.com/alexstevovich/hashley](https://github.com/alexstevovich/hashley)
+
 _This link might become hashley-node in the future if conflicts arise._
 
 ## License
